@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;bk-apirest/src/main/resources/static/images/iconfinder_user_1608727.png&apos; to &apos;nousuario.png&apos;" description="Rename resource &apos;iconfinder_user_1608727.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/images/iconfinder_user_1608727.png" name="nousuario.png" stamp="1558108313544" updateReferences="true"/>
+</session>
